@@ -43,7 +43,7 @@ She went to school and now she's smart
 
 -------------------
 
-<img src="chase rabbits.JPG" height=200 />
+<img src="Chase Rabbits.JPG" height=200 />
 
 She chases rabbits in the sun
 
@@ -55,25 +55,25 @@ She makes digging holes an art
 
 -------------------
 
-<img src="sticks.JPG" height=200 />
+<img src="Sticks.JPG" height=200 />
 
 And fetches sticks for fun
 
 -------------------
 
-<img src="dance.JPG" height=200 />
+<img src="Dance.JPG" height=200 />
 
 She can do a silly dance
 
 -------------------
 
-<img src="beach.JPG" height=200 />
+<img src="Beach.JPG" height=200 />
 
 And loves the beach a bunch
 
 -------------------
 
-<img src="food.JPG" height=200 />
+<img src="Food.JPG" height=200 />
 
 And if you give her half a chance  
 She'll eat half your lunch
@@ -81,14 +81,14 @@ She'll eat half your lunch
 
 -------------------
 
-<img src="bath.JPG" height=200 />
+<img src="Bath.JPG" height=200 />
 
 When she's mucky as a stray  
 Into the bath she'll leap
 
 -------------------
 
-<img src="bed.JPG" height=200 />
+<img src="Bed.JPG" height=200 />
 
 And at the end of a fun filled day  
 She loves a good long sleep
